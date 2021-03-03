@@ -1,5 +1,5 @@
 /*****
- Ramon Ochoa
+ Ramon Ochoa CSE 360
  ******/
 public class GitDemo {
     
